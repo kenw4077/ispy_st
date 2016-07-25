@@ -8,7 +8,6 @@ metadata {
 	definition (name: "ispy", namespace: "kenw4077", author: "Ken Williams") {
 		capability "Switch"
 		attribute "hubactionMode", "string"
-		//attribute "cameraMode", "number"
    
         
 	}
